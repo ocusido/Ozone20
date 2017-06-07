@@ -1,0 +1,5 @@
+
+Commands to Use from VS Code
+--------------------------------------------
+Push to GIT source control
+> git push -u origin master
